@@ -1,17 +1,20 @@
-# Pass-the-Message
-Projeto de JavaScript - 4
+# Pass the message
 
-# Criando um site de alimentos usando | HTML e CSS 
 
- - Terceiro Projeto de CSS e HTML.
+ - Página feita para o envio de menssagens.
+
+ - Projeto de JavaScript - 4.
   
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
    
    
 ## Tecnologias Aprendidas:
+
  - HTML.
    
  - CSS.
+
+ - JavaScript.
 
 ## Contatos:
  - E-mail: tamiressilvabezerra05@gmail.com.
@@ -22,32 +25,4 @@ Projeto de JavaScript - 4
     
 ## imagem do projeto
 
-
-
-
-
-# Criando um site de alimentos usando | HTML e CSS 
-
- - Terceiro Projeto de CSS e HTML.
-  
- - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
-   
-   
-## Tecnologias Aprendidas:
- - HTML.
-   
- - CSS.
-
-## Contatos:
- - E-mail: tamiressilvabezerra05@gmail.com.
-   
- - LinkedIn:www.linkedin.com/in/tamires-silva-147765200.
-
-    
-    
-## imagem do projeto
-
-
-
-
-
+![image](https://github.com/tamiressil/Pass-the-Message/assets/163886976/bd071d76-bcfb-419a-bd14-3a3aaa430d34)
